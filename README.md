@@ -106,7 +106,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,xd,idea,vscode,postman,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,xd,idea,vscode,postman,androidstudio,xd,vscode,stackoverflow" />
   </a>
 </p>
 
@@ -114,20 +114,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/FMCDc-D7X68AAAAi/you-did-it-way-to-go.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikasbhardwaj2821&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikasbhardwaj2821&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
