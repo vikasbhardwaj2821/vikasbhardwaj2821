@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" height="450" style="width: 100%; height: auto; object-fit: cover;">
+ <img src="https://www.windmill.digital/wp-content/uploads/Flutter-Banner.png" height="450" style="width: 100%; height: auto; object-fit: cover;">
 </p>
 
 <hr>
