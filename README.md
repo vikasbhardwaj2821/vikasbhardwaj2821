@@ -117,7 +117,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://media.tenor.com/FMCDc-D7X68AAAAi/you-did-it-way-to-go.gif"  width="100px" height="100px"></p>
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
@@ -131,7 +131,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Puneet01Chand&theme=midnight-purple)](https://git.io/streak-stats)
 
