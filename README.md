@@ -1,7 +1,7 @@
 <p align="center">
- <img src="https://i.gifer.com/AjA6.mp4" height="450" style="width: 100%; height: auto; object-fit: cover;">
+ <img src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" height="450" style="width: 100%; height: auto; object-fit: cover;">
 </p>
-<div style="padding-top:56.000%;position:relative;"><iframe src="https://gifer.com/embed/AjA6" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <hr>
 <!-- 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
@@ -10,7 +10,7 @@
 <!-- <h3 align="center">A passionate Programmer from Sri lanka</h3> -->
 <p align="center">I'm a Flutter developer with a profound passion for creating immersive and user-centric mobile applications. Over the course of my journey in the tech world, I've dedicated myself to mastering the art of Flutter development, delivering seamless cross-platform  experiences that blend functionality with aesthetics </p>
 <p align="center"> 
- <img src="https://media3.giphy.com/media/9o9dh1JRGThC1qxGTJ/giphy.gif?cid=6c09b9529xgup7e5vixjnmsfdniloq9ee47s6u5wumy926qo" alt="Vikas Bhardwaj" /> 
+ <img src="https://media.tenor.com/TO12dCuqBmUAAAAC/anime-typing.gif" height="450" style="width:100%; height: auto; object-fit: cover;"  alt="Vikas Bhardwaj" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Vikas Bhardwaj's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/vikasbhardwaj"> -->
 </p>
@@ -34,7 +34,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp">
+<img align="right" alt="Coding" width="400" src="https://wanabrar.files.wordpress.com/2015/10/14.gif">
 
 🚀 What I Do:
 
