@@ -143,7 +143,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 
 <h3 align="left">Activity:</h3>
 
-![VikasBhardwaj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikasbhardwaj2821&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![VikasBhardwaj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikasbhardwaj2821&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=79BA8B&line=79BA8B&point=79BA8B&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
