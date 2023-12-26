@@ -67,7 +67,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Puneet Chand" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vikas Bhardwaj" height="30" width="40" /></a>
 </p>
 <br> -->
 
@@ -120,20 +120,20 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 <img src="https://media.tenor.com/FMCDc-D7X68AAAAi/you-did-it-way-to-go.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=vikasbhardwaj2821&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Puneet01Chand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=vikasbhardwaj2821&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneet01Chand\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasbhardwaj2821\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Puneet01Chand&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vikasbhardwaj2821&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
@@ -143,7 +143,7 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 
 <h3 align="left">Activity:</h3>
 
-![Puneet01Chand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puneet01Chand&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Vikasbhardwaj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikasbhardwaj2821&custom_title=GitHub%20Activity%20Graph&bg_color=fffff&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
