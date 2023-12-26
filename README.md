@@ -131,9 +131,10 @@ I'm open to collaboration, discussions, and sharing insights. Feel free to reach
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasbhardwaj2821\&custom_title=GitHub%20Status&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasbhardwaj2821\&custom_title=GitHub%20Status&theme=tokyonight&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vikasbhardwaj2821&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vikasbhardwaj2821&theme=)](https://git.io/streak-stats)
+
 
 </div>
 
